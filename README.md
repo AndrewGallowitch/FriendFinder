@@ -1,6 +1,6 @@
 # Friend Finder App
 
-this app requires the basic npm packages
+**This app requires the basic npm packages**
 
-* 'express'
-* 'path'
+* `express`
+* `path`
